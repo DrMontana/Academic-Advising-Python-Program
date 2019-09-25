@@ -1,0 +1,2 @@
+# Academic-Advising-Python-Program
+This is a class project we had to design to create an advising program for simulated students at Montana State University. It will take their condition (boolean conditions) for if they are having trouble with math or their major classes and print out solutions based on those conditions. This project taught us how to work with inheritance in Python and how to solve a real world problem with code that doesn't have to be re-written every time.
